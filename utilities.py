@@ -25,3 +25,4 @@ def rand_time(start, end):
         time += f":{choice(['00', '15', '30', '45'])}"
         
     return time
+#print rand_time(11:30,1)
